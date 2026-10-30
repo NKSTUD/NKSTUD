@@ -17,7 +17,11 @@ I turn noisy, real-world signals into AI that works in production: voice agents 
 
 ### Open source
 
-Small tools I use every day, shared: [macsweep](https://github.com/NKSTUD/macsweep) cleans a Mac from a local app or any AI assistant, [lws-mcp](https://github.com/NKSTUD/lws-mcp) manages LWS domains and DNS from an MCP client, and [billing-e2e](https://github.com/NKSTUD/billing-e2e) tests Stripe subscriptions end to end.
+Small tools I use every day, shared.
+
+- **[lws-mcp](https://github.com/NKSTUD/lws-mcp)** manages LWS domains, DNS and hosting from Claude, Cursor or any MCP client.
+- **[macsweep](https://github.com/NKSTUD/macsweep)** frees up space on a Mac, from a local app or through any AI assistant.
+- **[billing-e2e](https://github.com/NKSTUD/billing-e2e)** tests Stripe subscriptions end to end: renewals, failed payments, proration and cancellations.
 
 ### Research
 
@@ -30,8 +34,12 @@ Before that, real-time fault diagnosis for high-speed train bearings from vibrat
 
 ### Stack
 
-Python, FastAPI, Django, PostgreSQL and pgvector, Redis, Vue, Next.js, TypeScript, Docker.
-Claude API, OpenAI Agents SDK, MCP, RAG, real-time speech pipelines, SIP and Asterisk, PyTorch.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img alt="Python, FastAPI, Django, PostgreSQL, Redis, Docker, TypeScript, Vue, Next.js, Claude, MCP, PyTorch, Asterisk" src="assets/stack-light.svg" width="640">
+</picture>
+
+Also: OpenAI Agents SDK, RAG with pgvector, real-time speech pipelines, SIP telephony.
 
 <br>
 
