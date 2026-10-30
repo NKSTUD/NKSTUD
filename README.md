@@ -38,7 +38,7 @@ Since 2024, I've been an AI research and teaching engineer at [École Centrale C
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-  <img alt="Python, FastAPI, Django, PostgreSQL with pgvector, Redis, Docker, TypeScript, Vue, Next.js, OpenAI Agents SDK, Claude, Gemini, Groq, Ollama, MCP, PyTorch, Deepgram, ElevenLabs, LiveKit, Twilio, Asterisk" src="assets/stack-light.svg" width="640">
+  <img alt="Python, FastAPI, Django, PostgreSQL with pgvector, Redis, Docker, TypeScript, Vue, Next.js, OpenAI Agents SDK, Claude, Gemini, Groq, Ollama, MCP, PyTorch, Deepgram, ElevenLabs, LiveKit, Twilio, Asterisk" src="assets/stack-light.svg" width="100%">
 </picture>
 
 <br>
