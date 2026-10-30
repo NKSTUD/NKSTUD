@@ -28,7 +28,11 @@ Two papers with Lund University on using LLMs for engineering risk analysis, pub
 - [Integrating LLMs with RAG to Enhance Design FMEA](https://doi.org/10.1017/pds.2024.204), DESIGN 2024. Top 3 Best Paper.
 - [AI-driven FMEA: Integration of LLMs for Faster and More Accurate Risk Analysis](https://doi.org/10.1017/dsj.2025.7), Design Science, 2025.
 
-Before that, real-time fault diagnosis for high-speed train bearings from vibration and acoustic signals, with Morocco's national railway. I also teach AI and robotics at École Centrale Casablanca.
+I also built a real-time fault diagnosis system for high-speed train bearings, from vibration and acoustic signals, with Morocco's national railway.
+
+### Teaching
+
+Since 2024, I've been an AI research and teaching engineer at [École Centrale Casablanca](https://www.centrale-casablanca.ma). I teach AI, robotics and electronics, supervise student engineering projects from first idea to working prototype, and run applied AI projects with African and Moroccan companies.
 
 ### Stack
 
