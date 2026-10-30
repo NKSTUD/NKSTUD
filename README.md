@@ -17,8 +17,6 @@ I turn noisy, real-world signals into AI that works in production: voice agents 
 
 ### Open source
 
-Small tools I use every day, shared.
-
 - **[lws-mcp](https://github.com/NKSTUD/lws-mcp)** manages LWS domains, DNS and hosting from Claude, Cursor or any MCP client.
 - **[macsweep](https://github.com/NKSTUD/macsweep)** frees up space on a Mac, from a local app or through any AI assistant.
 - **[billing-e2e](https://github.com/NKSTUD/billing-e2e)** tests Stripe subscriptions end to end: renewals, failed payments, proration and cancellations.
